@@ -1,0 +1,32 @@
+{
+  "name": "Human Nutrition",
+  "description": "Overview of nutrition",
+  "children": [
+    {
+      "name": "Vitamins",
+      "description": "Essential micronutrients",
+      "children": [
+        {
+          "name": "Fat Soluble",
+          "description": "A, D, E, K"
+        },
+        {
+          "name": "Water Soluble",
+          "description": "B-complex, C"
+        }
+      ]
+    },
+    {
+      "name": "Minerals",
+      "description": "Inorganic nutrients",
+      "children": [
+        {
+          "name": "Macrominerals"
+        },
+        {
+          "name": "Trace Minerals"
+        }
+      ]
+    }
+  ]
+}
