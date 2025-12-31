@@ -6,7 +6,7 @@ It enables users to explore complex ideas, workflows, or knowledge structures vi
 
 ---
 
-deployed link - (www.marriagebiodataonline.com)
+deployed link - (https://neuromap-futuristic.netlify.app/)
 
 
 ---
